@@ -1,6 +1,6 @@
 # PostgreSQL Learning
 
-## To creating Dump file
+## Creating Dump file
 pg_dump --no-owner shubham > dump.sql
 
 ## Restore Tables
